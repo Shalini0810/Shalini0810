@@ -63,24 +63,6 @@
 
 ### 🛠️ Tech Stack
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) |   |   |
-
----
-
-### 🛠️ Tech Stack
-
-| Programming | Web Dev | Tools & Platforms | Database |
-|-------------|---------|-------------------|----------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql) |
-
----
-
-### 🛠️ Tech Stack
-
 #### 💻 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
