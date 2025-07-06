@@ -1,3 +1,8 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/NrqZqpv.png" alt="Shalini Banner" style="width:100%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shalini Kotha</h1>
 <h3 align="center">Full Stack Developer | Code for Good Winner | Google WE Scholar | Focused on Practical, Purposeful Tech</h3>
 
